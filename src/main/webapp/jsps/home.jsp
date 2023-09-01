@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Pvt Ltd. Andhra Pradesh,India </h1>
+<h1 align="center">Welcome to Malli Technologies Pvt Ltd. Andhra Pradesh,India </h1>
 <h1 align="center"> New Batch will be start in OCTOBER 11th  at 7.30 PM IST - Contact 9980923226/9980923216 or devopstrainingblr@gmail.com</h1> 
 <h1 align="center"> Malli Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
@@ -41,15 +41,15 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9980923226,+91-9900012028
 		devopstrainingblr@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:mallidevopstrainingblr@gmail.com">Mail to Malli Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center>Malli Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2022 by <a href="http://mallitechnologies.com/">Malli Technologies,Bengaluru</a> </small></p>
 
 </body>
 </html>
